@@ -1,2 +1,43 @@
+-----
+
 # jtthink_math_matrix
-numpy入门和数学恶补之矩阵篇
+
+程序员在囧途-numpy入门和数学恶补之矩阵篇
+
+* [视频地址：http://www.jtthink.com/course/57](http://www.jtthink.com/course/57)
+* [目录](https://github.com/lianghongle/jtthink_math_matrix/blob/master/CATALOG.md)
+
+DIRECTORY STRUCTURE
+-------------------
+
+```
+/
+    CATALOG.md          整理目录
+    README.md           readme.md
+    test.py             test文件
+    venv/               虚拟环境
+```
+
+## 虚拟环境
+
+```python
+//激活虚拟环境
+$ python3 -m venv venv(环境名称)
+$ source bin/activate
+
+// 退出虚拟环境
+$ deactivate
+```
+
+## 相关扩展
+* pip install XXX
+* pip install -r filename
+```
+
+
+```
+
+## 相关文档
+* python3: https://docs.python.org/3/index.html
+
+# TO BE CONTINUED
