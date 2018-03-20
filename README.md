@@ -12,6 +12,7 @@ DIRECTORY STRUCTURE
 
 ```
 /
+    courseware/         课件
     CATALOG.md          整理目录
     README.md           readme.md
     test.py             test文件
@@ -33,11 +34,12 @@ $ deactivate
 * pip install XXX
 * pip install -r filename
 ```
-
-
+numpy
 ```
 
 ## 相关文档
 * python3: https://docs.python.org/3/index.html
+* numpy:https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
+
 
 # TO BE CONTINUED
