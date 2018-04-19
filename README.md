@@ -13,6 +13,8 @@ DIRECTORY STRUCTURE
 ```
 /
     courseware/         课件
+        matrix/         矩阵篇
+        distance/       距离篇
     CATALOG.md          整理目录
     README.md           readme.md
     test.py             test文件
@@ -35,6 +37,9 @@ $ deactivate
 * pip install -r filename
 ```
 numpy
+
+scipy
+sklearn
 ```
 
 ## 相关文档
