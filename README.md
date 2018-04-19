@@ -4,7 +4,8 @@
 
 程序员在囧途-numpy入门和数学恶补之矩阵篇
 
-* [视频地址：http://www.jtthink.com/course/57](http://www.jtthink.com/course/57)
+* [视频地址(矩阵篇)：http://www.jtthink.com/course/57](http://www.jtthink.com/course/57)
+* [视频地址(距离篇)：http://www.jtthink.com/course/61](http://www.jtthink.com/course/61)
 * [目录](https://github.com/lianghongle/jtthink_math_matrix/blob/master/CATALOG.md)
 
 DIRECTORY STRUCTURE
