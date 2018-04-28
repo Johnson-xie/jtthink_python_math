@@ -46,6 +46,7 @@ sklearn
 ## 相关文档
 * python3: https://docs.python.org/3/index.html
 * numpy:https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
+* https://www.scipy.org/docs.html
 
 
 # TO BE CONTINUED
