@@ -4,9 +4,10 @@
 
 程序员在囧途-数学恶补
 
-* [视频地址(矩阵篇)：http://www.jtthink.com/course/57](http://www.jtthink.com/course/57)
-* [视频地址(距离篇)：http://www.jtthink.com/course/61](http://www.jtthink.com/course/61)
-* [目录](https://github.com/lianghongle/jtthink_math_matrix/blob/master/CATALOG.md)
+* [视频地址(矩阵篇)](http://www.jtthink.com/course/57)
+* [视频地址(距离篇)](http://www.jtthink.com/course/61)
+* [视频地址(数据挖掘前传之pandas速学基础篇)](http://www.jtthink.com/course/64)
+
 
 DIRECTORY STRUCTURE
 -------------------
@@ -16,6 +17,7 @@ DIRECTORY STRUCTURE
     courseware/         课件
         matrix/         矩阵篇
         distance/       距离篇
+        pandas/         pandas篇
     CATALOG.md          整理目录
     README.md           readme.md
     test.py             test文件
