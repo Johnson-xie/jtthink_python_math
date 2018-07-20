@@ -100,3 +100,6 @@
 
 ### [第4讲:DataFrame入门:增加列、统计销售额、apply函数的应用](http://www.jtthink.com/course/play/1318)
 * 今天我们学习如何增加列，并且学习重要函数apply
+
+### [第5讲:DataFrame入门(4):排序、按销量计算商品排名](http://www.jtthink.com/course/play/1322)
+* 今天我们来入门下排序。并且自动标出排名
