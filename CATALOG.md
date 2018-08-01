@@ -103,3 +103,6 @@
 
 ### [第5讲:DataFrame入门(4):排序、按销量计算商品排名](http://www.jtthink.com/course/play/1322)
 * 今天我们来入门下排序。并且自动标出排名
+
+### [第6讲:DataFrame入门(5):合并数据(join)、合并用户信息和积分表](http://www.jtthink.com/course/play/1330)
+* 今天我们来学习数据的基本合并方式。
