@@ -106,3 +106,6 @@
 
 ### [第6讲:DataFrame入门(5):合并数据(join)、合并用户信息和积分表](http://www.jtthink.com/course/play/1330)
 * 今天我们来学习数据的基本合并方式。
+
+### [第7讲:DataFrame入门(6):修改列名、合并用户积分数据(merge)、 重置索引](http://www.jtthink.com/course/play/1343)
+* 今天我们继续来学习数据的合并，并初步了解join和merge的区别
