@@ -109,3 +109,13 @@
 
 ### [第7讲:DataFrame入门(6):修改列名、合并用户积分数据(merge)、 重置索引](http://www.jtthink.com/course/play/1343)
 * 今天我们继续来学习数据的合并，并初步了解join和merge的区别
+
+### [第8讲:DataFrame入门(7): 行数据合并(concat)、球员数据分组、去重](http://www.jtthink.com/course/play/1352)
+今天我们继续来学习数据的合并，以及数据简单去重
+
+### [第9讲:DataFrame入门(8): 多重索引取数据的各种姿势、slice、IndexSlice]()
+今天我们学习到多重索引的操作姿势
+
+### [第10讲:日期处理学习(1):生成日期索引、"伪造"点击量报表]()
+这几节课我们来学习pandas对日期的处理。
+
